@@ -1,4 +1,3 @@
-<img src="./.github/assets/app-icon.png" alt="Voice Assistant App Icon" width="100" height="100">
 
 # Voice Assistant AI – Full Stack Project
 
@@ -8,7 +7,7 @@ This is a **custom voice assistant** built using **[LiveKit](https://livekit.io/
 - 🎯 **Frontend**: Next.js + LiveKit SDK (`agent-starter-reac`)
 - 🧠 **Backend**: Node.js / LiveKit Agent (`Voice_assis`)
 
-![App screenshot](./.github/assets/frontend-screenshot.jpeg)
+![App screenshot](G:\voice app\Screenshot 2025-06-30 201120.png)
 
 ---
 
