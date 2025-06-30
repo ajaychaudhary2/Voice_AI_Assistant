@@ -7,7 +7,8 @@ This is a **custom voice assistant** built using **[LiveKit](https://livekit.io/
 - 🎯 **Frontend**: Next.js + LiveKit SDK (`agent-starter-reac`)
 - 🧠 **Backend**: Node.js / LiveKit Agent (`Voice_assis`)
 
-![App screenshot](G:\voice app\Screenshot 2025-06-30 201120.png)
+![App screenshot](screenshot.png)
+
 
 ---
 
